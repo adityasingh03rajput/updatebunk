@@ -1,7 +1,6 @@
-flask
-websocket-client
-pyopenssl
+Flask
+Werkzeug
 requests
-gunicorn
 python-dotenv
-tk
+gunicorn
+gevent

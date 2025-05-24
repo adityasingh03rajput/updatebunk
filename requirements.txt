@@ -1,2 +1,7 @@
 flask
-streamlit
+websocket-client
+pyopenssl
+requests
+gunicorn
+python-dotenv
+tk
